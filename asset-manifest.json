@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/princeVegeta2/static/css/main.7ca7c2fd.css",
-    "main.js": "/princeVegeta2/static/js/main.ec629375.js",
+    "main.js": "/princeVegeta2/static/js/main.7a7da1d8.js",
     "static/js/787.bbe01249.chunk.js": "/princeVegeta2/static/js/787.bbe01249.chunk.js",
     "static/media/ds-logo.png": "/princeVegeta2/static/media/ds-logo.08fb71e1b9b97da3958d.png",
     "static/media/ShareTechMono-Regular.ttf": "/princeVegeta2/static/media/ShareTechMono-Regular.612f305b9343c25ccace.ttf",
@@ -10,11 +10,11 @@
     "static/media/inf.svg": "/princeVegeta2/static/media/inf.fe29e0f3fdaffc99117b862a1cb3c649.svg",
     "index.html": "/princeVegeta2/index.html",
     "main.7ca7c2fd.css.map": "/princeVegeta2/static/css/main.7ca7c2fd.css.map",
-    "main.ec629375.js.map": "/princeVegeta2/static/js/main.ec629375.js.map",
+    "main.7a7da1d8.js.map": "/princeVegeta2/static/js/main.7a7da1d8.js.map",
     "787.bbe01249.chunk.js.map": "/princeVegeta2/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ca7c2fd.css",
-    "static/js/main.ec629375.js"
+    "static/js/main.7a7da1d8.js"
   ]
 }
